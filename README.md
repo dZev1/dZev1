@@ -36,4 +36,4 @@ Currently, I am learning how to use OpenGL in order to start making a Game Engin
 |----------|
 | </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> |
 # Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/dZev1?theme=dark&font=Castoro&ext=heatmap) <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzev1&show_icons=true&locale=en" alt="dzev1" /></p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/dZev1?theme=dark&font=Castoro&ext=heatmap)
