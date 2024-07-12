@@ -1,7 +1,9 @@
-# About me
-Hi, I'm Diego, a Computer Science Student from Argentina. I'm currently in my first year of college. I study at University of Buenos Aires.
+# dZev1_README.md
 
-Currently, I am learning how to use OpenGL in order to start making a Game Engine. I haven't done much since I do not know a lot as of now, but I will grow this profile a lot.
+# About me
+Hi, I'm Diego, a Computer Science Student from Argentina. I'm currently in my first year of college. I study at University of Buenos Aires, taking Algorithms and Data Structures classes.
+
+Currently, I am learning how to use OpenGL in order to start making a Game Engine. I haven't done much since I do not know a lot as of now, but I will try my best to grow this profile. 
 
 Maybe I will even post things in my [Youtube Channel](https://www.youtube.com/@dezeta1_).
 
@@ -12,6 +14,11 @@ Maybe I will even post things in my [Youtube Channel](https://www.youtube.com/@d
 <a href="https://instagram.com/diegozevallos_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diegozevallos_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dzev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dzev1" height="30" width="40" /></a>
 </p>
+
+# Currently working in:
+- [Learning OpenGL by making a 3D shape visualizer](https://github.com/dZev1/OpenGL3DRenderer)
+- [Learning Algorithms with LeetCode](https://github.com/dZev1/LeetCodeProblems)
+- Learning how to use the FabricAPI for Minecraft Modding
 
 # Languages and tools I am currently using
 ### Languages:
