@@ -20,7 +20,7 @@ Currently, I am learning how to use OpenGL in order to start making a Game Engin
 - [Learning Algorithms with LeetCode](https://github.com/dZev1/LeetCodeProblems)
 - Learning how to use the FabricAPI for Minecraft Modding
 
-# Languages and tools I am currently using
+# Languages & Tools currently using/learning
 ### Languages:
 | C | C# | Py3 | C++ |
 |----------|----------|----------|----------|
