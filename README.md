@@ -1,7 +1,7 @@
 # dZev1_README.md
 
 # About me
-Hi, I'm Diego, a Computer Science Student from Argentina. I'm currently in my first year of college. I study at University of Buenos Aires, taking Algorithms and Data Structures classes.
+Hi, I'm **Diego**,  a Computer Science Student from Argentina. I'm currently in my first year of college. I study at University of Buenos Aires, taking Algorithms and Data Structures classes.
 
 Currently, I am learning how to use OpenGL in order to start making a Game Engine. I haven't done much since I do not know a lot as of now, but I will try my best to grow this profile. 
 
