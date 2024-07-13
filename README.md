@@ -29,4 +29,9 @@ Currently, I am learning how to use OpenGL in order to start making a Game Engin
 |<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> |
 
 # LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/dZev1?theme=unicorn&font=Rubik)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dZev1?theme=dark&font=Rubik)
+
+![](https://komarev.com/ghpvc/?username=dZev1&color=blueviolet)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dZev1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
