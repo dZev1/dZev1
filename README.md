@@ -31,7 +31,5 @@ Currently, I am learning how to use OpenGL in order to start making a Game Engin
 # LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dZev1?theme=dark&font=Rubik)
 
-![](https://komarev.com/ghpvc/?username=dZev1&color=blueviolet)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dZev1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
