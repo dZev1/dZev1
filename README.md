@@ -1,34 +1,61 @@
-### dZev1_README.md
+<h1 align="center"><b>Hi! I'm Diego Zevallos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-# About me
-Hi, I'm **Diego**,  a Computer Science Student from Argentina. I'm currently in my first year of college. I study at **FCEyN**, ***University of Buenos Aires***, taking Algorithms and Data Structures classes.
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Currently, I am learning how to use OpenGL in order to start making a Game Engine. I haven't done much since I do not know a lot as of now, but I will try my best to grow this profile. 
+I am a computer science student, currently on first year of my degree. I am expanding my knowledge in 
+- 📫 Reach out to me at: <a href="diegozevallos04@gmail.com">diegozevallos04@gmail.com</a>
 
-***Maybe I will even post things in my [Youtube Channel](https://www.youtube.com/@dezeta1_).***
+## My Skills Include
 
-# Social Media
-| YT | LI | LC |
-|----------|----------|----------|
-| <a href="https://www.youtube.com/@dezeta1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dezeta1_" height="30" width="40" /></a> | <a href="https://linkedin.com/in/diego-zevallos-702437227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-zevallos-702437227" height="30" width="40" /></a> | <a href="https://www.leetcode.com/dzev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dzev1" height="30" width="40" /></a> |
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+ 
 
-# Currently:
-- [Learning OpenGL by making a 3D shape visualizer](https://github.com/dZev1/OpenGL3DRenderer)
-- [Solving LeetCode Problems](https://github.com/dZev1/LeetCodeProblems)
-- Learning how to use the FabricAPI for Minecraft Modding
 
-# Languages & Tools currently using/learning
-### Languages:
-| Java | C# | Py3 | C++ |
-|----------|----------|----------|----------|
-|<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"> </a> | <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+</span>
 
-### Game Engines & Tools:
-| Unity | Git |
-|----------|----------|
-|<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> |
 
-# LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/dZev1?theme=dark&font=Rubik)
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dZev1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+</span>
+
+## Check out my Social Media
+
+<a href="https://www.twitch.tv/dezeta1_" target="_blank">
+  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+</a>
+<a href="https://www.instagram.com/diegozevallos_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.youtube.com/@dezeta1_" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
+</a>
+
+
+
+
+
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=dZev1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=dZev1&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
+
+
+
+
+
+
+
