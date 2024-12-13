@@ -13,9 +13,7 @@ Currently, I am learning how to use OpenGL in order to start making a Game Engin
 | <a href="https://www.youtube.com/@dezeta1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dezeta1_" height="30" width="40" /></a> | <a href="https://linkedin.com/in/diego-zevallos-702437227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-zevallos-702437227" height="30" width="40" /></a> | <a href="https://www.leetcode.com/dzev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dzev1" height="30" width="40" /></a> |
 
 # Currently:
-- [Learning OpenGL by making a 3D shape visualizer](https://github.com/dZev1/OpenGL3DRenderer)
-- [Solving LeetCode Problems](https://github.com/dZev1/LeetCodeProblems)
-- Learning how to use the FabricAPI for Minecraft Modding
+Learning Go and Relational Databases
 
 # Languages & Tools currently using/learning
 ### Languages:
