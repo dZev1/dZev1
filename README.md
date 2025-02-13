@@ -1,7 +1,7 @@
 ### dZev1_README.md
 
 # About me
-Hi, I'm **Diego**,  a Computer Science Student from Argentina. I'm currently in my first year of college. I study at **FCEyN**, ***University of Buenos Aires***, taking Algorithms and Data Structures classes.
+Hi, I'm **Diego**,  a Computer Science Student from Argentina. I'm currently in my first year of college. I study at **FCEyN**, ***University of Buenos Aires***.
 
 Currently, I am learning how to use OpenGL in order to start making a Game Engine. I haven't done much since I do not know a lot as of now, but I will try my best to grow this profile. 
 
@@ -17,14 +17,14 @@ Learning Go and Relational Databases
 
 # Languages & Tools currently using/learning
 ### Languages:
-| Java | C# | Py3 | C++ |
-|----------|----------|----------|----------|
-|<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"> </a> | <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+| Java | Py3 | C++ |
+|----------|----------|----------|
+|<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"> </a>  | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
-### Game Engines & Tools:
-| Unity | Git |
-|----------|----------|
-|<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> |
+### Tools:
+| Git |
+|----------|
+| <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> |
 
 # LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dZev1?theme=dark&font=Rubik)
