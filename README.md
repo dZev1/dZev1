@@ -1,9 +1,9 @@
 ### dZev1_README.md
 
 # About me
-Hi, I'm **Diego**,  a Computer Science Student from Argentina. I'm currently in my first year of college. I study at **FCEyN**, ***University of Buenos Aires***.
+Hi, I'm **Diego**,  a Computer Science Student from Argentina. I'm currently in my second year of college. I study at **FCEyN**, ***University of Buenos Aires***.
 
-Currently, I am learning how to use OpenGL in order to start making a Game Engine. I haven't done much since I do not know a lot as of now, but I will try my best to grow this profile. 
+Currently, I am learning how to use the Spring Java Framework.
 
 ***Maybe I will even post things in my [Youtube Channel](https://www.youtube.com/@dezeta1_).***
 
@@ -29,4 +29,4 @@ Learning Java Spring framework.
 # LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dZev1?theme=dark&font=Rubik)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dZev1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dZev1&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
