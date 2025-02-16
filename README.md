@@ -29,4 +29,4 @@ Learning Java Spring framework.
 # LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dZev1?theme=dark&font=Rubik)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dZev1&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dZev1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
