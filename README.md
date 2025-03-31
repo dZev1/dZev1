@@ -3,10 +3,6 @@
 # About me
 Hi, I'm **Diego**,  a Computer Science Student from Argentina. I'm currently in my second year of college. I study at **FCEyN**, ***University of Buenos Aires***.
 
-Currently, I am learning how to use the Spring Java Framework.
-
-***Maybe I will even post things in my [Youtube Channel](https://www.youtube.com/@dezeta1_).***
-
 # Social Media
 | YT | LI | LC |
 |----------|----------|----------|
