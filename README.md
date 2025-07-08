@@ -3,13 +3,8 @@
 # About me
 Hi, I'm **Diego**,  a Computer Science Student from Argentina. I'm currently in my second year of college. I study at **FCEyN**, ***University of Buenos Aires***.
 
-# Social Media
-| YT | LI | LC |
-|----------|----------|----------|
-| <a href="https://www.youtube.com/@dezeta1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dezeta1_" height="30" width="40" /></a> | <a href="https://linkedin.com/in/diego-zevallos-702437227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-zevallos-702437227" height="30" width="40" /></a> | <a href="https://www.leetcode.com/dzev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dzev1" height="30" width="40" /></a> |
-
 # Currently:
-Learning Java Spring framework.
+Learning Go
 
 # Languages & Tools currently using/learning
 ### Languages:
