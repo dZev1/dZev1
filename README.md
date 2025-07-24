@@ -8,14 +8,14 @@ Learning Go
 
 # Languages & Tools currently using/learning
 ### Languages:
-| Java | Py3 | C++ | GO |
+| Java     | Py3      | C++      | GO       |
 |----------|----------|----------|----------|
 |<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"> </a>  | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> | <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a> |
 
 ### Tools:
-| Git | Spring |
+| Git      | Postgres |
 |----------|----------|
-| <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="spring" width="40" height="40"/> </a> |
+| <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="postgres" width="40" height="40"/> </a> |
 
 # LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dZev1?theme=dark&font=Rubik)
