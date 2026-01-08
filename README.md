@@ -17,8 +17,8 @@
 
 ## Projects🚀
 
-- [Fantasy Character Gallery](https://www.github.com/dZev1/fantasy-character-gallery): A small CRUD API where you can save your RPG characters written in Go.
-- [fundz-language](https://www.github.com/dZev1/fundz-language): A small functional language written in Go.
+- [Fantasy Character Gallery](https://www.github.com/dZev1/fantasy-character-gallery): A simple CRUD API where you can save your RPG characters written in Go.
+- [fundz-language](https://www.github.com/dZev1/fundz-language): A functional language written in Go.
 
 ## Skills☕
 
