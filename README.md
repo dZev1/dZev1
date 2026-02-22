@@ -11,6 +11,6 @@
 ## Projects
 
 - [Character Gallery](https://www.github.com/dZev1/fantasy-character-gallery): An App where you can create your own RPG Fantasy characters and items, and have inventory systems for them.
-  - **Technologies:**  `go`, `react`, `typescript`, `postgresql`, `docker`
+  - **Technologies:**  `go`, `postgresql`, `docker`
 
 
