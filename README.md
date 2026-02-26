@@ -3,7 +3,7 @@
 ## 🧍‍♂️Introducing me...
 
 - I'm **Diego** and I'm 21 years old.
-- I'm a Computer Science student from **Facultad de Ciencias Exactas y Naturales ([FCEyN](https://exactas.uba.ar/)), *University of Buenos Aires***, Argentina.
+- I'm a Computer Science student at **Facultad de Ciencias Exactas y Naturales ([FCEyN](https://exactas.uba.ar/)), *University of Buenos Aires***, Argentina.
 - I'm currently learning: **Java** + **Spring Boot** framework.
 - My **favourite languages** are Go & Typescript.
 - I'm a big fan of cats🐱
