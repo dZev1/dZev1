@@ -10,7 +10,7 @@
 
 ## Projects
 
-- [Character Gallery](https://www.github.com/dZev1/fantasy-character-gallery): An api where you can create your own RPG Fantasy characters and items, and have inventory systems for them.
+- [Character Gallery](https://www.github.com/dZev1/fantasy-character-gallery): An API where you can create your own RPG fantasy characters, with an inventory system and custom item support.
   - **Technologies:**  `go`, `postgresql`, `docker`
 
 
